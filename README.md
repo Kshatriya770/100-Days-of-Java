@@ -3,4 +3,4 @@
 # 100-Days-of-Java
 A Daily programming thing trash directory
 
-* [Log - click here to see my progress](log.md)
+* [Log - click here to see my progress](https://github.com/Kshatriya770/100-Days-of-Java/blob/main/Log.md)
