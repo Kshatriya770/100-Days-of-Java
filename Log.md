@@ -55,3 +55,12 @@
 **Thoughts:** I am catching up real quick and i am understanding github more while spending some of my time here and doing nothing.
 
 **Link to work:** All the files has been linked to src folder under introduction .  
+
+### Day 6: October 10, 2020 
+##### 
+
+**Today's Progress**: Arrays and some example of the loops'.
+
+**Thoughts:** ""
+
+**Link to work:** ""
