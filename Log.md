@@ -61,6 +61,16 @@
 
 **Today's Progress**: Arrays and some example of the loops'.
 
-**Thoughts:** ""
+**Thoughts:** "Completed the arrays fast and learned some sorting related to it like bubble and selection sort"
 
-**Link to work:** ""
+**Link to work:** "I am still using the book called "head first java","
+
+### Day 7: October 11, 2020 
+##### 
+
+**Today's Progress**: Strings'.
+
+**Thoughts:** "A deep dive into the strings , this is so intresting than i thought it would be i am really liking it
+Learned about some more syntax "
+
+**Link to work:** "I am still using the book called "head first java","
