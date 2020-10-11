@@ -70,7 +70,15 @@
 
 **Today's Progress**: Strings'.
 
-**Thoughts:** "A deep dive into the strings , this is so intresting than i thought it would be i am really liking it
-Learned about some more syntax "
+**Thoughts:** "A deep dive into the strings , Learned about some more syntax "
 
 **Link to work:** "I am still using the book called "head first java","
+
+### Day 8: October 12, 2020 
+##### 
+
+**Today's Progress**: Anagram in Strings'.
+
+**Thoughts:** "Just an example of the strings and i uploaded the png file to the improvement of the code for archives "
+
+**Link to work:** "Now it's time to move to the OOPS concepts","
