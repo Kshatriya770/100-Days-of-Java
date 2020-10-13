@@ -77,8 +77,16 @@
 ### Day 8: October 12, 2020 
 ##### 
 
+<<<<<<< Updated upstream
 **Today's Progress**: Anagram in Strings'.
 
 **Thoughts:** "Just an example of the strings and i uploaded the png file to the improvement of the code for archives "
 
 **Link to work:** "Now it's time to move to the OOPS concepts","
+=======
+**Today's Progress**: OOPS'.
+
+**Thoughts:** "Started learning OOPS Objects, class and methods "
+
+**Link to work:** "Practicing some coding on geeksforgeeks.org but didn't going well they are already implementing class and objects so i am thinking of experimenting with some other sites like hackerrank or hackerearth for better understanding ","
+>>>>>>> Stashed changes
