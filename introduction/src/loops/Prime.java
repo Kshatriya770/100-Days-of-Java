@@ -20,3 +20,5 @@ System.out.println("is Prime " + isPrime);
 	}
 
 }
+
+//dikat
