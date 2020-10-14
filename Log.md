@@ -91,3 +91,12 @@
 **Thoughts:** "Started learning OOPS Objects, class and methods "
 
 **Link to work:** "Practicing some coding on geeksforgeeks.org but didn't going well they are already implementing class and objects so i am thinking of experimenting with some other sites like hackerrank or hackerearth for better understanding ","
+
+### Day 10: October 14, 2020
+#####
+
+**Today's Progress**: Methods in OOPS'.
+
+**Thoughts:** "Learned Methods and Encapsulation in OOPS and other like Access Modifiers "
+
+**Link to work:** "No improvement over the coding n geeksforgeeks but learned a few things like they are the same as the local compiler but they already uses oops so it's not good for entry level beginners but I will try to get things done reall quick, I also started coding on hackerearth this seems so simple with the first example in Array We'll see what works for the best "
