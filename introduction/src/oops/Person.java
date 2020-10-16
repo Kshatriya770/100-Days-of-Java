@@ -1,10 +1,10 @@
 package oops;
 
 public class Person {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
+	
+	int age;
+	String name;
+	
+	static String breed = "Homo Sapiens";
 
 }
