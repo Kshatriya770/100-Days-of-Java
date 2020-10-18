@@ -118,3 +118,12 @@
 **Thoughts:** "no thoughts just learn, '.
 
 **Link to work:** "HackerEarth is going well till now, but I found leetcode that comes with some nice interface, don't laugh at me I am searching for the perfection "
+
+### Day 13: October 17, 2020
+#####
+
+**Today's Progress**Inheritance, Upcasting, Downcasting, and super keyword
+
+**Thoughts:** "I am a little bit confused about inheritance but I will catch up really quick '.
+
+**Link to work:** "Not active on the competative coding sites more often i don't know why"
