@@ -127,3 +127,12 @@
 **Thoughts:** "I am a little bit confused about inheritance but I will catch up really quick '.
 
 **Link to work:** "Not active on the competative coding sites more often i don't know why"
+
+### Day 14: October 18, 2020
+#####
+
+**Today's Progress** Some more examples of the Inheritence, singelton
+
+**Thoughts:** "**
+
+**Link to work:** : Very soon i am making a portfolio of myself i have done making website just want to update it
