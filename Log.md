@@ -109,3 +109,12 @@
 **Thoughts:** "finally some improvements on coding started coding on HackerEarth finally and for me, it's better than geeksforgeeks, '.
 
 **Link to work:** "Finally Started Some coding on HackerEarth and the resoponse are pretty good i think "
+
+### Day 12: October 16, 2020
+#####
+
+**Today's Progress**:String examples, concatenation, and some data types
+
+**Thoughts:** "no thoughts just learn, '.
+
+**Link to work:** "HackerEarth is going well till now, but I found leetcode that comes with some nice interface, don't laugh at me I am searching for the perfection "
