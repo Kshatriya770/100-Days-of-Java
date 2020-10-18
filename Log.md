@@ -122,7 +122,7 @@
 ### Day 13: October 17, 2020
 #####
 
-**Today's Progress**Inheritance, Upcasting, Downcasting, and super keyword
+**Today's Progress**:Inheritance, Upcasting, Downcasting, and super keyword
 
 **Thoughts:** "I am a little bit confused about inheritance but I will catch up really quick '.
 
@@ -131,7 +131,7 @@
 ### Day 14: October 18, 2020
 #####
 
-**Today's Progress** Some more examples of the Inheritence, singelton
+**Today's Progress**: Some more examples of the Inheritence, singelton
 
 **Thoughts:** "**
 
