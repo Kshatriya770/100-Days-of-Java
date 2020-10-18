@@ -100,3 +100,12 @@
 **Thoughts:** "Learned Methods and Encapsulation in OOPS and other like Access Modifiers "
 
 **Link to work:** "No improvement over the coding n geeksforgeeks but learned a few things like they are the same as the local compiler but they already uses oops so it's not good for entry level beginners but I will try to get things done reall quick, I also started coding on hackerearth this seems so simple with the first example in Array We'll see what works for the best "
+
+### Day 11: October 15, 2020
+#####
+
+**Today's Progress**: Encapsulation and Data Hiding, getters and setters in encapsulation 
+
+**Thoughts:** "finally some improvements on coding started coding on HackerEarth finally and for me, it's better than geeksforgeeks, '.
+
+**Link to work:** "Finally Started Some coding on HackerEarth and the resoponse are pretty good i think "
