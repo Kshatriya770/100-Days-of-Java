@@ -2,6 +2,6 @@ package oops.interfaces;
 
 public abstract interface Student {
 	
-	abstract void study();
+	abstract void study(); 
 
 }
