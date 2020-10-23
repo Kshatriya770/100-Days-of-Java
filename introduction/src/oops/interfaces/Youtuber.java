@@ -1,6 +1,8 @@
 package oops.interfaces;
 
-public abstract interface Youtuber {
+import oops.abstraction.VideoEditor;
+
+public abstract interface Youtuber extends VideoEditor {
 	
 	abstract void makeVideo();
 
