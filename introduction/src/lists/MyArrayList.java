@@ -8,8 +8,8 @@ public class MyArrayList {
 	public static void main(String[] args) {
 		
 		//ArrayList<String> fruits = new ArrayList();    or
-		List<String> fruits = new ArrayList();
-		List<String> vegetables = new ArrayList();
+		List<String> fruits = new ArrayList<>();
+		List<String> vegetables = new ArrayList<>();
 		
 		fruits.add("Apple");
 		fruits.add("Orange");
@@ -37,7 +37,7 @@ public class MyArrayList {
 		System.out.println(fruits.contains("mango"));
 		
 		//to remove list
-		List<String> toRemove = new ArrayList();
+		List<String> toRemove = new ArrayList<>();
 		toRemove.add("Apple");
 		toRemove.add("Orange");
 		fruits.removeAll(toRemove);
@@ -50,10 +50,8 @@ public class MyArrayList {
 		System.out.println(fruits.isEmpty());
 		
 		
-		ArrayList<Integer> marks = new ArrayList();
-		
-		Pair<String, Integer> p1 = new Pair("Saurabh", 656);
-		Pair<Boolean, String> p2 = new Pair(true, "Hello");
+		Pair<String, Integer> p1 = new Pair<String, Integer>("Saurabh", 656);
+		Pair<Boolean, String> p2 = new Pair<Boolean, String>(true, "Hello");
 		
 		p1.getDescription();
 		p2.getDescription();
