@@ -1,17 +1,17 @@
 package LinkedLists;
 
-public class MyLinkedList {
+public class MyLinkedList<E> {
 	
-	Node head;
-	void add(int data) {
-		Node toAdd = new Node(data);
+	Node<E> head;
+	void add(E data) {
+		Node<E> toAdd = new Node<E>(data);
 		
 		if(isEmpty()) {
 			head = toAdd;
 			return;
 		}
 		
-		Node temp = head;
+		Node<E> temp = head;
 		while(temp.next != null) {
 			temp = temp.next;
 		}
@@ -19,9 +19,9 @@ public class MyLinkedList {
 	}
 	
 	void print() {
-		Node temp = head;
+		Node<E> temp = head;
 		while(temp.next != null) {
-			System.out.println(temp.data + " ");
+			System.out.print(temp.data + " ");
 			temp = temp.next;
 		}
 	}
@@ -35,11 +35,11 @@ public class MyLinkedList {
 		
 	}
 	
-	static class Node{
-		int data;
+	static class Node<E>{
+		E data;
 		Node next;
 		
-		public Node(int data) {
+		public Node(E data) {
 			this.data = data;
 			next = null;
 		}
