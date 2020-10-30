@@ -1,6 +1,6 @@
 package vectorsAndStacks;
 
-import LinkedLists.MyLinkedList;
+import linkedLists.MyLinkedList;
 
 public class MyStack<E> {
 	
