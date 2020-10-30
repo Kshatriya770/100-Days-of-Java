@@ -1,5 +1,5 @@
 package queue;
-import LinkedLists.MyLinkedList.Node;
+import linkedLists.MyLinkedList.Node;
 
 public class MyQueue<E> {
 	
