@@ -15,9 +15,6 @@ public class Paranthesis {
 		while(t-- !=0) {
 		String s = sc.nextLine();
 		
-			
-			
-			
 			for (int i = 0; i<s.length(); i++) {
 				ch = s.charAt(i);
 				if(ch == '(' || ch == '{' || ch == '[') {
@@ -49,15 +46,16 @@ public class Paranthesis {
 					break;
 				}
 			}
+			if(!stack.isEmpty()) {
+				isBalanced = false;
+			}
+			if(isBalanced) {
+				System.out.println("balanced");
+			}else {
+				System.out.println("not balanced");
+			}
 		}
-		if(!stack.isEmpty()) {
-			isBalanced = false;
-		}
-		if(isBalanced) {
-			System.out.println("balanced");
-		}else {
-			System.out.println("not balanced");
-		}
+		
 
 	}
 
