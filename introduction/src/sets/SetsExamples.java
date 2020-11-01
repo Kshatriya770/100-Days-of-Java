@@ -18,8 +18,9 @@ public class SetsExamples {
 		//for union
 		//x.addAll(y);
 		
-		//for intersection
-		x.retainAll(y);
+		//for intersection returns boolean value if able to add or not
+		System.out.println(x.retainAll(y));
+		System.out.println(x.containsAll(y));
 		System.out.println(x);
 
 	}
