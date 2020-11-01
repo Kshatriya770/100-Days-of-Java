@@ -2,13 +2,13 @@ package sets;
 
 import java.util.HashSet;
 import java.util.Set;
-import java.util.TreeSet;
 
 public class MainClass {
 
 	public static void main(String[] args) {
-		Set<String> fruits = new TreeSet<>();
-		
+		Set<String> fruits = new HashSet<>();
+		// LinkedHashSet for putting elements according to user
+		// TreeSet for sorting of elements in alphabetical order
 		fruits.add("Banana");
 		fruits.add("Apple");
 		fruits.add("Mango");
