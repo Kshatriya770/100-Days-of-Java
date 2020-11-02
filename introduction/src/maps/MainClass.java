@@ -1,7 +1,7 @@
 package maps;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
+import java.util.Map.Entry;
 
 public class MainClass {
 	
@@ -21,6 +21,12 @@ public class MainClass {
 		System.out.println(numbers.keySet());
 		System.out.println(numbers.values());
 		System.out.println(numbers.entrySet());
+		
+		Set<Entry<String, Integer>> entries = numbers.entrySet();
+		
+		for(Entry<String, Integer> entry: entries) {
+			entry.setValue(entry.getValue() * 100);
+		}
 		
 		numbers.remove("one ");
 		
