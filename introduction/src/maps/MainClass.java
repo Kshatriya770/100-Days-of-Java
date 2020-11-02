@@ -18,7 +18,11 @@ public class MainClass {
 		System.out.println(numbers.get("one "));
 		System.out.println(numbers.containsKey("two "));
 		System.out.println(numbers.containsValue(5));
+		System.out.println(numbers.keySet());
+		System.out.println(numbers.values());
+		System.out.println(numbers.entrySet());
 		
+		numbers.remove("one ");
 		
 		
 		System.out.println(numbers);
