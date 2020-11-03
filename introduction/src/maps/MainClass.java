@@ -9,30 +9,30 @@ public class MainClass {
 		
 		Map<String, Integer> numbers = new HashMap<>();
 		
-//		numbers.put("one ", 1);
-//		numbers.put("two ", 2);
-//		numbers.put("five ", 5);
-//		
-//		numbers.putIfAbsent("one ", 4);
-//		
-//		System.out.println(numbers.get("one "));
-//		System.out.println(numbers.containsKey("two "));
-//		System.out.println(numbers.containsValue(5));
-//		System.out.println(numbers.keySet());
-//		System.out.println(numbers.values());
-//		System.out.println(numbers.entrySet());
-//		
-//		Set<Entry<String, Integer>> entries = numbers.entrySet();
-//		
-//		for(Entry<String, Integer> entry: entries) {
-//			entry.setValue(entry.getValue() * 100);
-//		}
-//		
-//		numbers.remove("one ");
-//		
-//		
-//		System.out.println(numbers);
-//		
+		numbers.put("one ", 1);
+		numbers.put("two ", 2);
+		numbers.put("five ", 5);
+		
+		numbers.putIfAbsent("one ", 4);
+		
+		System.out.println(numbers.get("one "));
+		System.out.println(numbers.containsKey("two "));
+		System.out.println(numbers.containsValue(5));
+		System.out.println(numbers.keySet());
+		System.out.println(numbers.values());
+		System.out.println(numbers.entrySet());
+		
+		Set<Entry<String, Integer>> entries = numbers.entrySet();
+		
+		for(Entry<String, Integer> entry: entries) {
+			entry.setValue(entry.getValue() * 100);
+		}
+		
+		numbers.remove("one ");
+		
+		
+		System.out.println(numbers);
+		
 		System.out.println(getHash("CAT"));
 		System.out.println(getHash("DOG"));
 		System.out.println(getHash("GOD"));
