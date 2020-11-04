@@ -12,7 +12,7 @@ public class HashCodeAndEquals {
 		
 //		System.out.println(pen1.equals(pen2));
 		
-//		System.out.println(pen1);
+//		System.out.printlni(pen1);
 //		System.out.println(pen2);
 		
 		Set<Pen> pens = new HashSet<>();
