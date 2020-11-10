@@ -14,6 +14,7 @@ public class ScannerUserInput {
 		String hello = sc.nextLine();
 		
 		System.out.println(hello);
+		sc.close();
 	}
 
 }

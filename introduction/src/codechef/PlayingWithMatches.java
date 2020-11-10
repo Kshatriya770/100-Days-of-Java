@@ -21,7 +21,7 @@ public class PlayingWithMatches {
 			}
 			System.out.println(length);
 		}
-
+		sc.close();
 	}
 
 }
