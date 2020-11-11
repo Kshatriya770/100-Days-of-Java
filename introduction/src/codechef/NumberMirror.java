@@ -12,4 +12,3 @@ class NumberMirror
 		sc.close();
 	}
 }
-
