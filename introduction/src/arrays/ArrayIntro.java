@@ -11,6 +11,7 @@ public class ArrayIntro {
 		//using loop in arrays
 		 for(int i = 0; i<marks.length; i++) {
 			 System.out.println(marks[i]);
+			 System.out.println(marks[i]);
 		 }
 		
 
