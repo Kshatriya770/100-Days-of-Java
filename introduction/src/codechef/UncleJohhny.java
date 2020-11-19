@@ -8,7 +8,7 @@ public class UncleJohhny {
 	public static void main(String[] args) {
 		Scanner x = new Scanner(System.in);
 		int t = x.nextInt();
-		int c = 0,d = 0;
+		int c = 0,d = 0,count =0;
 		while(t-->0) {
 			int N = x.nextInt();
 			int a[] = new int[N];
@@ -16,17 +16,19 @@ public class UncleJohhny {
 				a[i] = x.nextInt();
 			}
 			int K = x.nextInt();
-			c = a[K+1];
+			c = K - 1;
+			d = a[c];
 			Arrays.sort(a);
-			for(int i=0; i<N; i++) {
-				if(c == a[i]) {
+			for(int i = 0; i < N; i++) {
+				if(a[i] == d) {
 					break;
 				}else {
-					d += 1;
+					count++;
 				}
 			}
-			System.out.println(d+1);
+			System.out.println(count+1);
 		}
+		x.close();
 	}
 
 }
