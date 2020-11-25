@@ -24,7 +24,7 @@ public class CoinFlip {
 				
 			}
 		}
-
+		x.close();
 	}
 
 }
