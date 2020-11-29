@@ -1,5 +1,5 @@
 package queue;
-import linkedLists.MyLinkedList.Node;
+import linkedlist.MyLinkedLIst.Node;
 
 public class MyQueue<E> {
 	
@@ -8,7 +8,7 @@ public class MyQueue<E> {
 	public void enqueue(E e) {
 		
 		
-		Node<E> toAdd = new Node(e);
+		Node toAdd = new Node(e);
 		
 		if(head == null) {
 			head = rear = toAdd;

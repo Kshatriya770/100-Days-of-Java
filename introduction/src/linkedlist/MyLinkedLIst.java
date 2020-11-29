@@ -30,7 +30,7 @@ public class MyLinkedLIst {
 		return head == null;
 	}
 	
-	static class Node {
+	public static class Node {
 		int data;
 		Node next;
 		
