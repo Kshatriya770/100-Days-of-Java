@@ -18,6 +18,14 @@ public class MyLinkedLIst {
 		temp.next = toAdd;
 	}
 	
+	void print() {
+		Node temp = head;
+		while(temp != null) {
+			System.out.print(" "+temp.data);
+			temp = temp.next;
+		}
+	}
+	
 	boolean isEmpty() {
 		return head == null;
 	}
