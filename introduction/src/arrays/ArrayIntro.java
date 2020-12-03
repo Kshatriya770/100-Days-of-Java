@@ -8,7 +8,7 @@ public class ArrayIntro {
 		int[] marks = {23,43,53,53,65};
 		//we can change the data also via this:
 		marks[2] = 655;
-		//using loop in arrays
+		//using loop in arrays this is nice
 		 for(int i = 0; i<marks.length; i++) {
 			 System.out.println(marks[i]);
 			 System.out.println(marks[i]);
