@@ -24,9 +24,6 @@ public class Union {
 			for(int i = 0; i<m;i++) {
 				c[i] = a[i];
 			}
-			for(int i = 0; i<n; i++) {
-				c[i+m] = b[i];
-			}
 			
 			for(int i = 0; i<=o; i++) {
 				System.out.println(c[i]);
