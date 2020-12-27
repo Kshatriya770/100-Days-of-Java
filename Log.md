@@ -136,3 +136,6 @@
 **Thoughts:** "**
 
 **Link to work:** : Very soon i am making a portfolio of myself i have done making website just want to update it
+
+all the changes are stopped due to lazyness of mine so i stopped making any log file 
+if you really want an update so head over to my twitter, at Kshatriya_77
